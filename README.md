@@ -70,5 +70,7 @@ Feel free to fork this repository and contribute by improving the model or addin
 
 Author
 
-Sai Bala HariniGitHub ProfileKaggle Profile
+Sai Bala Harini
+GitHub https://github.com/saibalaharini20
+Kaggle https://www.kaggle.com/stpsaibalaharini
 
